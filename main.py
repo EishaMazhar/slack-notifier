@@ -3,7 +3,7 @@ import sys
 import requests
 
 if __name__ == "__main__":
-    url = "https://hooks.slack.com/services/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"
+    url = "slack channel link here"
     message = "A Sample message by bot"
     title = "test"
     slack_data = {"username": "slack-bot",
